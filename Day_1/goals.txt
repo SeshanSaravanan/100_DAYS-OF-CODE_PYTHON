@@ -1,1 +1,8 @@
-  
+  Goals: 
+      1. Printing 
+      2. Debugging 
+      3. String Manipulation
+      4. Commenting 
+      5. Variables 
+      
+Projects:  "Band name genertor"
