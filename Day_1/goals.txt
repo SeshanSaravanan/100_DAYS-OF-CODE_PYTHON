@@ -5,4 +5,4 @@
       4. Commenting 
       5. Variables 
       
-Projects:  "Band name genertor"
+Projects:  "Band name generator"
