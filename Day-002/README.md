@@ -1,4 +1,5 @@
 **Goals** 
+   
     1. Data Types
     2. Numbers
     3. Operations
@@ -6,4 +7,5 @@
     5. f-Strings
     
 **Project**  
-    1. "Tip Calculator"
+   
+   1. "Tip Calculator"
