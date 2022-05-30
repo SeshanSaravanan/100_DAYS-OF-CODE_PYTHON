@@ -1,2 +1,0 @@
-  This day is solely dedicated to "Hangman Project" as the revision of previous modules of learning.
-  So our goal is to create "Hangman Project" today.
