@@ -1,4 +1,4 @@
-## ############# Blackjack Project ################### ##
+## Blackjack Project
 
 #Difficulty Normal 😎: Use all Hints below to complete the project.
 #Difficulty Hard 🤔: Use only Hints 1, 2, 3 to complete the project.
