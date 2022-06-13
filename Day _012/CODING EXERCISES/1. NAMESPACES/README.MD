@@ -1,4 +1,4 @@
-## GOALS 
+## NAMESPACES 
 
-# 1. NAMESPACES 
-# 2. 
+  1. Global scope 
+  2. local scope 
